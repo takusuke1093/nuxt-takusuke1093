@@ -11,9 +11,22 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.0.0"
+    "axios": "^0.19.2",
+    "core-js": "2.6.2",
+    "es6": "^0.0.7",
+    "eslint": "^6.8.0",
+    "firebase": "^7.8.1",
+    "firebase-tools": "^7.12.1",
+    "live-server": "^1.2.1",
+    "nuxt": "^2.0.0",
+    "octicons-vue": "^1.0.1",
+    "vuetify": "^2.2.8"
   },
   "devDependencies": {
-    "@nuxtjs/vuetify": "^1.0.0"
+    "@nuxtjs/vuetify": "^1.0.0",
+    "deepmerge": "^4.2.2",
+    "fibers": "^4.0.2",
+    "sass": "^1.25.0",
+    "sass-loader": "^8.0.2"
   }
 }

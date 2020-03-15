@@ -77,7 +77,7 @@
         <v-layout column align-center justify-center>
           <div class="headline white--text mb-4 text-center">Web development has never been easier</div>
           <em>Kick-start your application today</em>
-          <v-btn class="mt-12" color="blue lighten-2" dark large href="/login">無料会員登録</v-btn>
+          <v-btn class="mt-12" color="blue lighten-2" dark large href="/pre-made-themes">無料会員登録</v-btn>
         </v-layout>
       </v-parallax>
     </section>
@@ -136,3 +136,4 @@
     </section>
   </v-content>
 </template>
+
