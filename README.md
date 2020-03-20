@@ -1,6 +1,6 @@
 # nuxt-takusuke1093
 
-> kgbfkh nuxt versino
+> kgbfkh nuxt version
 
 ## Build Setup
 
