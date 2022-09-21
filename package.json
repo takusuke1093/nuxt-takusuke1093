@@ -20,7 +20,7 @@
     "live-server": "^1.2.1",
     "nuxt": "^2.0.0",
     "octicons-vue": "^1.0.1",
-    "vuetify": "^2.2.8"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.0.0",
